@@ -3,7 +3,6 @@
 
 
 
-<img align="right" src="https://i.imgur.com/7uSOiLL.gif" height="250">
 <img align="right" src="https://github.com/ZackPashkin/flutter-flare-vibration/blob/master/assets/VibrationApp.gif" height="250">
 
 
